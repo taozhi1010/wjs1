@@ -1,5 +1,5 @@
 $(function(){
-     console.log("嘻嘻");
+     console.log("嘻嘻哈哈");
      var mySwiper = new Swiper ('.swiper-container',{
          autoplay:{
                  delay: 2500,
